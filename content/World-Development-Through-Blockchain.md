@@ -43,7 +43,7 @@ Digitale Zahlungssysteme wie Ripple oder Stellar bieten Transaktionen quasi kost
 Der Schaden durch Kreditkartenbetrug wächst kontinuierlich an. Allein Händlern in den USA gehen pro Jahr schätzungweise 190 Mrd $ auf diese Weise verloren.
 Dazu kommen die immer höheren Kosten der Kreditkartenbetreiber zur Betrugserkennung.
 Die vielen validen Zahlungen, die wegen Betrugsverdacht abgelehnt werden, sind dabei ein zusätzliches Ärgernis.
-Das Hauptproblem bei Kreditkarten besteht darin, dass Informationen, die zur Zahlung berechtigen, über unsichere Kanäle übermittelt werden müssen, weil sie an einer Zentralen Stelle geprüft werden.
+Das Hauptproblem bei Kreditkarten besteht darin, dass Informationen, die zur Zahlung berechtigen, über unsichere Kanäle übermittelt werden müssen, weil sie an einer zentralen Stelle geprüft werden.
 Digitale Kryptowährungen funktionieren anders. Die Information, die zur Zahlung berechtigt, wird nie übermittelt, sondern bleibt immer beim Besitzer.
 Statt dessen wird sie nur benutzt, um eine einzelne Transaktion kryptografisch zu signieren. Dies verleiht der Transaktion folgende Eigenschaften:
 * Nur der Besitzer kann sie erzeugen
