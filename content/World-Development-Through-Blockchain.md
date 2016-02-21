@@ -1,4 +1,4 @@
-﻿Slug: financial-inclusion
+﻿Slug: world-development-through-blockchain
 Lang: de
 Title: Entwicklunshilfe durch Blockchain-Technologie
 Date: 2016-02-11 21:20
